@@ -1,7 +1,7 @@
 
-  # Animate Carousel Cards
+  # Animated Cards Carrousel
 
-  This is a code bundle for Animate Carousel Cards. The original project is available at https://www.figma.com/design/n9SeTHT4pdzTRGNuyeXBQT/Animate-Carousel-Cards.
+  This is a code bundle for Animated Cards Carrousel. The original project is available at https://www.figma.com/design/n9SeTHT4pdzTRGNuyeXBQT/Animated-Cards-Carrousel.
 
   ## Running the code
 
